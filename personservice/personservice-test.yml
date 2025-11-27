@@ -1,0 +1,3 @@
+my:
+  custom:
+    property: hello-from-test-config-server
