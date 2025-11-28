@@ -1,9 +1,3 @@
 my:
   custom:
-    property: anapersonservice
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh, health # 'refresh' mutlaka dahil edilmeli
+    property: anapersonserviceee
